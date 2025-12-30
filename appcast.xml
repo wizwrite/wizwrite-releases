@@ -35,9 +35,9 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/wizwrite/wizwrite-releases/releases/download/v1.0.0/WizWriteMac-1.0.0.dmg"
-                sparkle:edSignature="SIGNATURE_PLACEHOLDER"
-                length="0"
+                url="https://github.com/wizwrite/wizwrite-releases/releases/download/v1.0.0/WizWrite-1.0.0.dmg"
+                sparkle:edSignature="aLCEO61tDu9fWDy9/oOz7IqitENkosJwBAAK+wDusEjlhYq5DBwYtfuTmq8N+RGnLHG3PNJs1oPHuOZnK6ugAw=="
+                length="25086530"
                 type="application/octet-stream"
             />
         </item>
