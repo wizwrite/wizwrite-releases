@@ -6,6 +6,42 @@
         <description>Most recent updates to WizWrite for macOS</description>
         <language>en</language>
 
+        <!-- Version 1.1.0 - Local Transcripts & Auth Hardening (Build 4) -->
+        <item>
+            <title>Version 1.1.0</title>
+            <pubDate>Wed, 01 Jan 2026 14:30:00 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <style>
+                    body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
+                    h2 { color: #7C3AED; }
+                    ul { padding-left: 20px; }
+                    li { margin: 8px 0; }
+                </style>
+                <h2>WizWrite 1.1.0</h2>
+                <p>New Local Transcripts feature and improved authentication!</p>
+                <h3>New Features</h3>
+                <ul>
+                    <li><strong>Local Transcripts:</strong> Upload audio files (MP3, WAV, M4A) for local-only transcription - nothing sent to cloud</li>
+                    <li><strong>Update Reminders:</strong> Menu bar now shows when updates are available</li>
+                </ul>
+                <h3>Improvements</h3>
+                <ul>
+                    <li><strong>Auth Hardening:</strong> Automatic logout on session expiration with clear messaging</li>
+                    <li><strong>Session Validation:</strong> App validates login on launch</li>
+                    <li><strong>Dynamic Version:</strong> Settings now shows version automatically</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/wizwrite/wizwrite-releases/releases/download/v1.1.0/WizWrite-1.1.0.dmg"
+                sparkle:edSignature="R2gHD7X3doHYApFf11XHU6nUv/8j/j28DaQkM+C+WAqVzB0GJ857DihJQ+s0APJdtUYpde1UDWdu9eJxR6YVCw=="
+                length="25342458"
+                type="application/octet-stream"
+            />
+        </item>
+
         <!-- Version 1.0.1 - Bug Fix Release (Build 3) -->
         <item>
             <title>Version 1.0.1</title>
