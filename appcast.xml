@@ -6,6 +6,36 @@
         <description>Most recent updates to WizWrite for macOS</description>
         <language>en</language>
 
+        <!-- Version 1.2.0 - Backend Migration (Build 5) -->
+        <item>
+            <title>Version 1.2.0</title>
+            <pubDate>Mon, 15 Jun 2026 12:30:00 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <style>
+                    body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
+                    h2 { color: #7C3AED; }
+                    ul { padding-left: 20px; }
+                    li { margin: 8px 0; }
+                </style>
+                <h2>WizWrite 1.2.0</h2>
+                <h3>Improvements</h3>
+                <ul>
+                    <li><strong>Upgraded backend infrastructure</strong> for improved reliability and speed</li>
+                    <li><strong>Fixed</strong> transcript output language handling</li>
+                    <li>General stability improvements</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/wizwrite/wizwrite-releases/releases/download/v1.2.0/WizWrite-1.2.0.dmg"
+                sparkle:edSignature="YG1KIcbEkIbUuSKEcDR4862lGB/k3SvxcmtqKg/m68hasWqNK7Z2bSYSJ/xRuVJiEQi5Cm7GQ1K0f9FUv6JdBA=="
+                length="25149363"
+                type="application/octet-stream"
+            />
+        </item>
+
         <!-- Version 1.1.0 - Local Transcripts & Auth Hardening (Build 4) -->
         <item>
             <title>Version 1.1.0</title>
