@@ -6,6 +6,40 @@
         <description>Most recent updates to WizWrite for macOS</description>
         <language>en</language>
 
+        <!-- Version 1.3.0 - Flower UI Redesign (Build 6) -->
+        <item>
+            <title>Version 1.3.0</title>
+            <pubDate>Wed, 15 Jul 2026 08:00:00 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <style>
+                    body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
+                    h2 { color: #7C3AED; }
+                    ul { padding-left: 20px; }
+                    li { margin: 8px 0; }
+                </style>
+                <h2>WizWrite 1.3.0 — A whole new look</h2>
+                <ul>
+                    <li><strong>Complete redesign</strong> — WizWrite's new flower design language across the entire app</li>
+                    <li><strong>New dictation pill</strong> with a cancel button, live-transcript view, and clearer states</li>
+                    <li><strong>Private by design</strong> — transcription now happens entirely on your Mac; audio never leaves the device. Your first dictation will ask you to download a transcription model (one-time)</li>
+                    <li><strong>Redesigned Integrations</strong> — automations and saved destinations with payload transparency</li>
+                    <li><strong>New Home screen</strong>, refreshed Sessions, Files, AI Actions, and Team</li>
+                    <li><strong>Audio import</strong> — drop in an audio file for an on-device transcript + AI actions</li>
+                    <li><strong>Failed transcriptions keep your audio</strong> with a one-click retry</li>
+                    <li><strong>Fixed</strong> a silent no-op in the Apply-on-Dictate dropdowns</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/wizwrite/wizwrite-releases/releases/download/v1.3.0/WizWrite-1.3.0.dmg"
+                sparkle:edSignature="LQc+f7eyaWF/5eiz9HaIdgm0SqAJJ4tx0in9FLyY0D6jjXZ1xbQA3sB1EwzZ+zGDnYrc9kva2dNnAlUCR9msDw=="
+                length="16883431"
+                type="application/octet-stream"
+            />
+        </item>
+
         <!-- Version 1.2.0 - Backend Migration (Build 5) -->
         <item>
             <title>Version 1.2.0</title>
