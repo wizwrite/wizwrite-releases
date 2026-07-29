@@ -6,6 +6,35 @@
         <description>Most recent updates to WizWrite for macOS</description>
         <language>en</language>
 
+        <!-- Version 1.4.0 - Dictation readiness + notifications + hat branding (Build 7) -->
+        <item>
+            <title>Version 1.4.0</title>
+            <pubDate>Wed, 29 Jul 2026 07:22:21 +0000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <style>
+                    body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
+                    h2 { color: #7C3AED; }
+                    ul { padding-left: 20px; }
+                    li { margin: 8px 0; }
+                </style>
+                <h2>WizWrite 1.4.0</h2>
+                <ul>
+                    <li><strong>Realtime from the first word</strong> — the transcription model now prewarms in the background, so live words appear on your very first dictation</li>
+                    <li><strong>Clearer model setup</strong> — honest download and preparation progress; missing-model recordings are kept for retry with a clear path into setup</li>
+                    <li><strong>Smarter notifications</strong> — only when background AI Action results are ready (with View Result); routine transcriptions stay quiet</li>
+                    <li><strong>New wizard-hat branding</strong> — refreshed app icon, menu bar, login, and About</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/wizwrite/wizwrite-releases/releases/download/v1.4.0/WizWrite-1.4.0.dmg"
+                sparkle:edSignature="vAlyl/8FeZ90MhPLCR9E6zFqa94WLPjnQ50hcmfMJXhJIA+2SiyyHHUtG7V/rVpMNK+PkfA54ZvWELv6yuFKDg=="
+                length="13964560"
+                type="application/octet-stream"
+            /></item>
+
         <!-- Version 1.3.0 - Flower UI Redesign (Build 6) -->
         <item>
             <title>Version 1.3.0</title>
